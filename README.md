@@ -107,4 +107,4 @@ Most raw volumetric data is stored in **ZYX** order (sequential slices). High-pe
 *   **ML Data Pipelines**: Creating 2D training sets from 3D volumetric "ground truth" data.
 
 ---
-**Developer & Architect:** [Tahmeed Ahmad](https://github.com/24f2001927)
+**Developer & Architect:** [Tahmeed Ahmad](https://github.com/syedtahmeed12)
