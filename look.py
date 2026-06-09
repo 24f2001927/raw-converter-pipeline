@@ -1,7 +1,7 @@
 import numpy as np
 
 # z,y,x format in the shape and only works z sliced
-shape = (815, 20000, 20000)  # make sure your raw file in z stacked or else change that
+shape = (z, y, x)  # make sure your raw file in z stacked or else change that
 raw_file = "path/to/raw/volume"
 
 print("Scanning volume for data...")
